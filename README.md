@@ -1,0 +1,2 @@
+# unity_OnTriggerEnter2D
+Unity2Dでのオブジェクトの衝突判定サンプル
